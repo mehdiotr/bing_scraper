@@ -1,2 +1,2 @@
 # bing_scraper
-Unlimit scraper the bing!
+Unlimit scraper for Bing shop!
